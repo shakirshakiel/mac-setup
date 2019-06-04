@@ -1,3 +1,5 @@
 - Download chrome from safari
 - Download iterm2
 - Login to your apple account. Download xcode. Open Xcode after installation and accept license.
+- Install xcode command line tools from https://developer.apple.com/download/more/
+- Download Visual Studio code
